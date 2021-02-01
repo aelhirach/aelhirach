@@ -7,7 +7,7 @@ I'm EL HIRACH ABDERRAZZAK, an IT industrial engineer (comparable to Master’s D
 
 ### Skills
 
-##### I build native & cross-platform games & mobile apps from idea to stores using : Swift, Objectif C, React-Native and Unity 3D :
+#### I build native & cross-platform games & mobile apps from idea to stores using : Swift, Objectif C, React-Native and Unity 3D :
 
   
 
@@ -34,7 +34,7 @@ I'm EL HIRACH ABDERRAZZAK, an IT industrial engineer (comparable to Master’s D
 
   
 
-##### I develop a general purpose applications using many languages :
+#### I develop a general purpose applications using many languages :
 
   
 
@@ -48,7 +48,7 @@ I'm EL HIRACH ABDERRAZZAK, an IT industrial engineer (comparable to Master’s D
 
   
 
-##### Software development and database management skills :
+#### Software development and database management skills :
 
   
 
